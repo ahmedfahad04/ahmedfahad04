@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfahad04&layout=compact)](https://github.com/ahmedfahad04/github-readme-stats)
 
-
+### View Stat
+![Profile views](https://gpvc.arturio.dev/ahmedfahad04)
 
 
