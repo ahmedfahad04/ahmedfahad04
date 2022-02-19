@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250px">
+
+<!-- <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250px"> -->
 
 <!--
 **ahmedfahad04/ahmedfahad04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
