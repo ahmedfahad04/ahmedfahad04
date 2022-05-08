@@ -2,8 +2,6 @@
 
 <!-- <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="250px"> -->
 
-![Quick Intro](https://raw.githubusercontent.com/ahmedfahad04/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
 <!--
 **ahmedfahad04/ahmedfahad04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
