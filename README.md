@@ -9,7 +9,7 @@
 
 - 💻 I enjoy **Python Programming** a lot and am really enthusiastic about learning new technology. In 2021, I learned **Object Oriented Programming programming in Java**, **JavaFx** for GUI Programming, **PyQt5** for Python GUI Programming, **C++** for problem solving, **SQLite** for DataBase Management. Higly motivated to learn more new stuffs in upcoming years.
 
-- 🔭 I’m currently working on Optagen Technologies. Previously I worked there as a Python Programmer and contributed in a project as a Front-End developer by desinger the GUI of their application.
+<!-- - 🔭 I’m currently working on Optagen Technologies. Previously I worked there as a Python Programmer and contributed in a project as a Front-End developer by desinger the GUI of their application. -->
 
 - 🌱 I’m currently learning Java, Python Libraries, Data Structure and Algorithm. 
 
