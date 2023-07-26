@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Istiaq Ahmed Fahad</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfahad04&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfahad04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedfahad04" alt="ahmedfahad04" /></a> </p>
-
 - 🎓 Its me, Istiaq Ahmed Fahad, a **Tech Enthusiast**. At present I am Pursuing my Bachelors degree in **Software Engineering** from Institute of Information Technology(IIT), University of Dhaka.
 
 - 💻 I enjoy **Python Programming** a lot and am really enthusiastic about learning new technology. In 2021, I learned **Object Oriented Programming programming in Java**, **JavaFx** for GUI Programming, **PyQt5** for Python GUI Programming, **C++** for problem solving, **SQLite** for DataBase Management. Higly motivated to learn more new stuffs in upcoming years.
@@ -20,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedfahad04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedfahad04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/istiaq ahmed fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiaq ahmed fahad" height="30" width="40" /></a>
-<a href="https://fb.com/istiaq ahmed fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiaq ahmed fahad" height="30" width="40" /></a>
-<a href="https://discord.gg/fahad1204#7457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fahad1204#7457" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedfahad04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiaq ahmed fahad" height="30" width="40" /></a>
+<a href="https://facebook.com/istiaqahmed.fahad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiaq ahmed fahad" height="30" width="40" /></a>
+<a href="https://discord.gg/fahad_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fahad1204#7457" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +36,6 @@
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfahad04&show_icons=true&theme=nightowl)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfahad04&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfahad04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedfahad04" alt="ahmedfahad04" /></a> </p>
