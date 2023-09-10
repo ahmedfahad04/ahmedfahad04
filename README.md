@@ -3,15 +3,18 @@
 
 - 🎓 Its me, Istiaq Ahmed Fahad, a **Tech Enthusiast**. At present I am Pursuing my Bachelors degree in **Software Engineering** from Institute of Information Technology(IIT), University of Dhaka.
 
-- 💻 I enjoy **Python Programming** a lot and am really enthusiastic about learning new technology. In 2021, I learned **Object Oriented Programming programming in Java**, **JavaFx** for GUI Programming, **PyQt5** for Python GUI Programming, **C++** for problem solving, **SQLite** for DataBase Management. Higly motivated to learn more new stuffs in upcoming years.
+- 💻 My heart beats for web development, and I'm all about harnessing the potential of React, Node.js, and FastAPI to create dynamic and user-centric web applications.
 
 <!-- - 🔭 I’m currently working on Optagen Technologies. Previously I worked there as a Python Programmer and contributed in a project as a Front-End developer by desinger the GUI of their application. -->
 
-- 🌱 I’m currently learning Java, Python Libraries, Data Structure and Algorithm. 
+- 🌱 As I continue my educational journey, I'm deeply engaged in honing my skills in data analysis, leveraging Python's data manipulation and visualization tools to derive valuable insights. I'm committed to staying on the forefront of technology and its applications.
+  
+-  I've had the opportunity to apply my technical skills and problem-solving abilities to develop innovative solutions, 🛠️ from creating intuitive user interfaces 🖥️ to contributing to projects that spanned diverse domains like bio floc systems 🐟 and content creation 📝. 
 
-- 👯 I’m looking to collaborate on Open Source Project. 
+- 🤝 I'm actively seeking collaborations on open-source projects, particularly in the realm of web development and data analysis, where I can apply my expertise and contribute to the tech community.
 
-- 📫 How to reach me **ahmedfahad3596@gmail.com**
+- 📫 Don't hesitate to reach out at ahmedfahad3596@gmail.com. Let's connect, learn, and build together. 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
