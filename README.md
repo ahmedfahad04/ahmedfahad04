@@ -13,6 +13,8 @@
 
  💬 Ask me about **React, FastAPI, Python**
 
+ 🧑‍🏫 I love to educate about **Python** and **Github**
+
  📄 Know about my experiences [here](https://drive.google.com/file/d/1-6rCRFm7W15rX-vSXS1yRvd9il8lroTP/view?usp=sharing)
 
  📫 Don't hesitate to reach out at ahmedfahad3596@gmail.com. Let's connect, learn, and build together.
