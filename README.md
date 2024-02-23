@@ -1,5 +1,8 @@
 
-  ![Fahad's Github Profile](https://github.com/ahmedfahad04/ahmedfahad04/assets/60494055/a06afe41-e254-4d0a-a9a1-a6d365ecc329)
+<!-- ![Fahad's Github Profile](https://github.com/ahmedfahad04/ahmedfahad04/assets/60494055/a06afe41-e254-4d0a-a9a1-a6d365ecc329) -->
+
+![Github_Profile_Photo](https://github.com/ahmedfahad04/ahmedfahad04/assets/60494055/26b23f04-6736-453c-a6fb-8c74cd9a17f9)
+
 
 <div align="center">
 
