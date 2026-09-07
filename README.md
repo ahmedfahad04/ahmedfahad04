@@ -1,110 +1,170 @@
+<div align="center">
 
-<!-- ![Fahad's Github Profile](https://github.com/ahmedfahad04/ahmedfahad04/assets/60494055/a06afe41-e254-4d0a-a9a1-a6d365ecc329) -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=38&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=780&height=70&lines=Istiaq+Ahmed+Fahad;Researcher+%26+Developer;AI+Safety+%7C+Human-Centered+AI;Building+what+I+study" alt="animated title" /> <br/>
 
-![Github_Profile_Photo](https://github.com/ahmedfahad04/ahmedfahad04/assets/60494055/26b23f04-6736-453c-a6fb-8c74cd9a17f9)
+### <i>"Obstacles cannot crush me; every obstacle yields to stern resolve."</i> — a line I borrow from da Vinci's notebooks and try to live up to in mine.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedfahad04.github.io-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedfahad04.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedfahad04)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmedfahad04)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/istiaqahmedfahad)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedfahad3596@gmail.com)
+
+</div>
+
+<br/>
+
+## ⚡ What I Do
+
+```txt
+🔭 Building tools at the intersection of AI, developer tooling & real-world usability
+🌱 Currently deep in agentic AI, code watermarking & LLM-based automation
+🤝 Open to collaborating on AI4SE, developer tools, and impact-driven products
+💬 Ask me about Python, FastAPI, React, RAG pipelines, and AI Agents
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [SmartGeoRef](https://github.com/ahmedfahad04)
+**Automated Geo-referencing for Scanned Maps**
+Converts scanned paper land-use maps into georeferenced GeoJSON in minutes — automatic boundary detection, real-time grid interpolation, 60-step undo/redo, and packaged as desktop apps for Linux & Windows.
+
+`Python` `Flask` `OpenCV` `GDAL` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [PyTypeWizard](https://github.com/ahmedfahad04)
+**VSCode Extension for Auto-Repairing Python Type Errors**
+Real-time detection and LLM-powered repair of static type errors, using RAG over indexed codebases and a SQLite-backed feedback loop for continuous improvement.
+
+`VSCode API` `RAG` `LLM` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Beautified You](https://github.com/ahmedfahad04)
+**Full-Stack E-commerce Platform**
+Shipped an admin dashboard with inventory, order and product analytics, integrated via an MCP server for behavior tracking — serving 25+ real users, mobile-optimized for 94% mobile traffic.
+
+`TypeScript` `Next.js` `NestJS` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [AgroTrade](https://github.com/ahmedfahad04)
+**Agricultural B2B Marketplace**
+Connects farmers, suppliers, and buyers across Bangladesh's agriculture sector, with bidding, payment verification, and order tracking shaped directly by real customer feedback.
+
+`Next.js` `TailwindCSS` `PostgreSQL` `Django`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 EmPower
+**Learning Tool for Autistic Children** 🏆 *2nd Place, DU Innovation Fair*
+A desktop app with gaze-based interaction, task scheduling, and progress monitoring built for cognitive and social development.
+
+`Python` `PyQt5` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Autonomous Vehicle Detection
+**Object Detection for Bangladeshi Roads** 🏆 *3rd Place, SUST DL Enigma*
+YOLO + DETR pipeline trained across nine districts' road data for real-world vehicle detection.
+
+`Python` `YOLO` `DETR` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔍 More builds — ASR, LLM fine-tuning & agentic tooling</b></summary>
+<br/>
+
+- **Bengali ASR for Regional Dialects** — end-to-end speech recognition pipeline over a 79+ hour Bengali speech corpus. 🏆 *4th Place, IUT Datathon*
+- **Bangla Math Reasoning** — fine-tuned Qwen-7B with DPO for low-resource Bangla mathematical reasoning. 🏆 *6th Place, BUET DL Sprint 3.0*
+- **Intent-Based Semantic Search** — built with Qdrant + BERT. 🏆 *6th Place, Poridhi.io AI Hackathon*
+
+</details>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
- 🔭 I’m currently working on **an E-commerce Project**
+**Languages & Core**
+<br/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
- 🌱 I’m currently learning **NextJS, React**
+**Frontend & Backend**
+<br/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
- 👯 I’m looking to collaborate on **Open Source Projects**
+**AI / ML & Data**
+<br/>
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
- 🤝 I’m looking for help with **AI/ML related projects**
-
- 💬 Ask me about **React, FastAPI, Python**
-
- 🧑‍🏫 I love to educate about **Python** and **Github**
-
- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-6rCRFm7W15rX-vSXS1yRvd9il8lroTP/view?usp=sharing)
-
- 📫 Don't hesitate to reach out at ahmedfahad3596@gmail.com. Let's connect, learn, and build together.
+**Infra & Tooling**
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </div>
 
-<h2 align="center">Connect with me</h2>
-<div align="center">
-<a href="https://github.com/ahmedfahad04" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ahmedfahad04" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/istiaqahmedfahad" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/istiaqahmed.fahad" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>    
+<br/>
 
-<h2 align="center"> My Skill Set </h2>
-<table><tr><td valign="top" width="33%">
-
-
-
-<h2 align="center"> Frontend </h2>
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h2 align="center"> Backend </h2>
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h2 align="center"> Database </h2> 
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
+## 📊 GitHub Activity
 
 <div align="center">
 
-<h2 align="center">Profile Statistics</h2>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfahad04&theme=midnight_purple" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfahad04&theme=midnight_purple" width="49%" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfahad04&theme=midnight_purple)
+<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfahad04&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfahad04&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfahad04&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfahad04&theme=midnight_purple&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfahad04&theme=midnight_purple" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfahad04&theme=midnight_purple&utcOffset=6" width="49%" />
 
+<br/><br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedfahad04&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfahad04" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ahmedfahad04&label=Profile%20views&color=6C63FF&style=flat-square" alt="profile views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Let's build something people actually use. 📫 ahmedfahad3596@gmail.com*
+
 </div>
