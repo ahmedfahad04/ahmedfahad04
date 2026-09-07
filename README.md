@@ -31,7 +31,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ [SmartGeoRef](https://github.com/ahmedfahad04)
+### 🗺️ [SmartGeoRef](https://www.youtube.com/watch?v=qJEgk4u3RA4)
 **Automated Geo-referencing for Scanned Maps**
 Converts scanned paper land-use maps into georeferenced GeoJSON in minutes — automatic boundary detection, real-time grid interpolation, 60-step undo/redo, and packaged as desktop apps for Linux & Windows.
 
@@ -40,7 +40,7 @@ Converts scanned paper land-use maps into georeferenced GeoJSON in minutes — a
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [PyTypeWizard](https://github.com/ahmedfahad04)
+### 🧩 [PyTypeWizard](https://github.com/ahmedfahad04/PyTypeWizard)
 **VSCode Extension for Auto-Repairing Python Type Errors**
 Real-time detection and LLM-powered repair of static type errors, using RAG over indexed codebases and a SQLite-backed feedback loop for continuous improvement.
 
@@ -51,7 +51,7 @@ Real-time detection and LLM-powered repair of static type errors, using RAG over
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Beautified You](https://github.com/ahmedfahad04)
+### 🛒 [Beautified You](https://beautifiedyoubd.com/)
 **Full-Stack E-commerce Platform**
 Shipped an admin dashboard with inventory, order and product analytics, integrated via an MCP server for behavior tracking — serving 25+ real users, mobile-optimized for 94% mobile traffic.
 
@@ -60,7 +60,7 @@ Shipped an admin dashboard with inventory, order and product analytics, integrat
 </td>
 <td width="50%" valign="top">
 
-### 🌾 [AgroTrade](https://github.com/ahmedfahad04)
+### 🌾 [AgroTrade](https://agrotrade.app/)
 **Agricultural B2B Marketplace**
 Connects farmers, suppliers, and buyers across Bangladesh's agriculture sector, with bidding, payment verification, and order tracking shaped directly by real customer feedback.
 
